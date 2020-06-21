@@ -7,9 +7,6 @@ The program makes sure to:
 2. Calculate the distance between all the instances of humans detected in the frame.
 3. Classify the determined distances as 'Alert' or 'Ok' for social distancing.
 
-### Output (Video)
-This demo video is performed on the public “OXFORD TOWN CENTRE” dataset
-
 ### Requirements:
 
 1. Numpy
